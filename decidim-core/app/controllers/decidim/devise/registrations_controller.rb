@@ -23,6 +23,7 @@ module Decidim
       end
 
       def create
+        params[:user][:name] = params[:user][:nickname]
         @form = form(RegistrationForm).from_params(params[:user])
 
         CreateRegistration.call(@form) do
