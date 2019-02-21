@@ -328,6 +328,7 @@ fr:
           newsletter: Recevoir une newsletter sur l'actualité de la plateforme
           newsletter_title: Autorisation de contact
           nickname_help: Cet identifiant est public et unique sur la plateforme "%{organization}" ; il permet aux autres utilisateurs de vous suivre, de vous contacter ou de vous mentionner dans leurs commentaires. Il s’affichera précédé d’un « @ » ; il ne doit pas contenir d’espace ni de caractère spécial.
+          password_help: Votre mot de passe doit contenir au minimum %{min_length} caractères, ne doit pas être trop commun (ex. 123456) et doit être différent de votre surnom et de votre email.
           sign_in: S'identifier
           sign_up: S'inscrire
           sign_up_as:
