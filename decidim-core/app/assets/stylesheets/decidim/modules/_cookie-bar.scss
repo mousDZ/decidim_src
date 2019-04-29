@@ -1,4 +1,8 @@
 .cookie-warning{
+  position: fixed;
+  bottom: 0;
+
+  width: 100%;
   background: $medium-gray;
   padding: .5em 1em;
   text-align: center;
