@@ -10,7 +10,7 @@ gem "decidim-consultations", path: "."
 gem "decidim-initiatives", path: "."
 
 gem "bootsnap", "~> 1.3"
-
+gem 'babel-transpiler'
 gem "puma", "~> 3.0"
 gem "uglifier", "~> 4.1"
 
