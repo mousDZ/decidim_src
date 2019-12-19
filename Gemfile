@@ -8,7 +8,7 @@ gem "decidim", path: "."
 gem "decidim-conferences", path: "."
 gem "decidim-consultations", path: "."
 gem "decidim-initiatives", path: "."
-gem "sprockets", "~> 3.7.2"
+
 gem "bootsnap", "~> 1.3"
 
 gem "puma", "~> 3.0"
